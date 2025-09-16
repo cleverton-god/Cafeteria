@@ -1,18 +1,17 @@
 body {
     background-color:beige;
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
     padding: 50px;
 }
-.titulo-principal {
+h1 {
     background-color:burlywood;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 50px;
 }
-.paragrafo-1 {
+p {
     background-color: burlywood;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
