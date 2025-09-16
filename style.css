@@ -10,7 +10,14 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 50px;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+nav a {
+    color: black;
+    margin: 0 5px;
+    padding: 10px;
+    font-weight: bold;
+    
 }
 p {
     background-color: burlywood;
@@ -18,12 +25,26 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 30px;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px;
 }
 a {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
     background-color: burlywood;
-    border-radius: 10px 10px 10px 10px;    
+    border-radius: 10px;    
+    
+}
+button {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: burlywood;
+    border-radius: 10px; 
+}
+LI {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:start;
+    padding: 10px;
 }
