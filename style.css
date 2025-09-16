@@ -1,24 +1,32 @@
 body {
-    background-color:beige;
+    background-color: blanchedalmond;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 50px;
+
 }
+
 h1 {
-    background-color:burlywood;
+    background-color: burlywood;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     padding: 50px;
     border-radius: 10px;
 }
+
+nav {
+    padding: 25px;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
 nav a {
     color: black;
     margin: 0 5px;
     padding: 10px;
     font-weight: bold;
-    
 }
+
 p {
     background-color: burlywood;
     color: black;
@@ -27,24 +35,56 @@ p {
     padding: 30px;
     border-radius: 10px;
 }
+
 a {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     background-color: burlywood;
-    border-radius: 10px;    
-    
+    border-radius: 10px;
 }
+
 button {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     background-color: burlywood;
-    border-radius: 10px; 
+    border-radius: 10px;
+    font-weight: bold;
 }
-LI {
+
+li {
+    font-weight: bold;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    text-align:start;
+    text-align: start;
+    padding: 10PX;
+}
+
+footer p {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: burlywood;
+    color: black;
     padding: 10px;
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    border-radius: 10px;
+}
+
+input {
+    border-radius: 10px;
+    padding: 9px; 
+}
+
+img {
+    margin: 0 0 0 150px;
+    border-radius: 20px;
 }
